@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">sepatucrud</string>
+
+    //sepatu
+    <string name="pastaIngredients">Pasta
+\nSepatu1
+
+</string>
+    <string name="pastaDesc">Sepatu2</string>
+    //maggi
+    <string name="maggiIngredients">Sepatu3
+\nSepatu4
+\nSepatu 5</string>
+    <string name="maggieDesc">Sepatu6</string>
+    //cake
+    <string name="cakeIngredients">Sepatu7</string>
+    <string name="cakeDesc">Sepatu 8</string>
+    //pancake
+    <string name="pancakeIngredients">Sepatu10</string>
+    <string name="pancakeDesc">sepatu11</string>
+    //pizza
+    <string name="pizzaIngredients">Sepatu12</string>
+    <string name="pizzaDesc">Sepatu13</string>
+    //burgers
+    <string name="burgerIngredients">Sepatu14</string>
+    <string name="burgerDesc">Sepatu15</string>
+    //fries
+    <string name="friesIngredients">Sepatu16</string>
+    <string name="friesDesc">Sepatu17</string>
+</resources>
