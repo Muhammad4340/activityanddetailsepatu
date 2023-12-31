@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_image_description">Gambar produk sepatu</string>
+    <string name="varian_activity_title">Varian Produk Sepatu</string>
+    <string name="detail_fragment_title">Detail Produk Sepatu</string>
+</resources>
